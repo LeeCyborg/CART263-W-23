@@ -107,9 +107,9 @@ Week 5: **Particles with Personaliteis due**
 Week 6: Data visualization techniques    
 Week 7: Using APIs in P5js
 Week 8: **Data vis project due**
-Week 9: Topics TBD
-Week 10: Topics TBD
-Week 11: Topics TBD
+Week 9: Debugging & Using mobile devices  
+Week 10: Digital fabrication with p5js
+Week 11: IoT
 Week 12: Studio Session.   
 Week 13: **Playful Interaction due**
 
