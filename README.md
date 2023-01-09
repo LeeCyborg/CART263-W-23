@@ -28,7 +28,7 @@ Tuesdays, 11:00-12:00
 We acknowledge that Concordia University is located on unceded Indigenous lands. The Kanien’kehá:ka Nation is recognized as the custodians of the lands and waters on which we gather today. Tiohtiá:ke/Montreal is historically known as a gathering place for many First Nations. Today, it is home to a diverse population of Indigenous and other peoples. We respect the continued connections with the past, present and future in our ongoing relationships with Indigenous and other peoples within the Montreal community. 
 
 ## Description 
-Learning to program is at the heart of understanding computation. In this course we cover an introduction to the key elements of programming, all while emphasizing experimental and playful approaches to software aesthetics. Students will learn object oriented 
+Learning to program is at the heart of understanding computation. In this course we cover an introduction to the key elements of programming, all while emphasizing experimental and playful approaches to software aesthetics. Students will learn object oriented concepts, as well as how to document and share their code with peers classmates using GitHub. 
 
 ## Learning Objectives 
 After completing this course, students should be able to:   
