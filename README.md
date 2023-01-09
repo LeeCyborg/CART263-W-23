@@ -4,13 +4,12 @@
 
 ## When? 
 January 9 –  April 23, 2023   
-Section A: Tuesday, 13:30 – 17:30 in EV 5.635
-
+Section A: Tuesday, 13:30 – 17:30 in EV 5.635.  
 Section B: Thursday, 13:30 – 17:30 in EV 5.815
 
 ## Where? 
-Tuesdays - EV 5.635
-Thursdays - EV 5.815   
+Tuesdays - EV 5.635. 
+Thursdays - EV 5.815.    
 
 ## Who? 
 Lee Wilkins   
@@ -83,7 +82,7 @@ Due: Assessed at the end of the course
 Students have the right to write in French at Concordia. Given that this is a programming course, you are welcome to name variables and functions in French as well as to write comments in French. 
 
 ## Late work policy 
-Late work of any kind will lose one letter grade per day late, beginning immediately after the deadline (e.g. if it is two days late, work that would have received a B would lose two letter grades and receive a C+). Please get in touch with Pippin before a deadline passes if you think you won’t make it.
+Late work of any kind will lose one letter grade per day late, beginning immediately after the deadline (e.g. if it is two days late, work that would have received a B would lose two letter grades and receive a C+). Please get in touch with Lee before a deadline passes if you think you won’t make it.
 
 ## Academic integrity 
 ### Academic Ethics 
@@ -102,16 +101,16 @@ The practical work done in this class will take place on your own computer, with
 
 ## Course Schedule 
 
-Week 1: Getting back into code: Setting up Git and VSCode.   
-Week 2: **Getting back into code due**
-Week 3: Intro to Object Oriented Programming. 
-Week 4: Live code session & OOP continued. 
-Week 5: **Particles with Personalities due**. 
-Week 6: Data visualization techniques.      
-Week 7: Using APIs in P5js. 
-Week 8: **Data vis project due**. 
-Week 9: Debugging & Using mobile.   devices. 
-Week 10: Digital fabrication with p5js. 
+Week 1: Getting back into code: Setting up Git and VSCode.     
+Week 2: **Getting back into code due**.  
+Week 3: Intro to Object Oriented Programming.  
+Week 4: Live code session & OOP continued.  
+Week 5: **Particles with Personalities due**.  
+Week 6: Data visualization techniques.        
+Week 7: Using APIs in P5js.  
+Week 8: **Data vis project due**.  
+Week 9: Debugging & Using mobile devices.   
+Week 10: Digital fabrication with p5js.  
 Week 11: IoT.  
 Week 12: Studio Session.     
 Week 13: **Playful Interaction due**.  
