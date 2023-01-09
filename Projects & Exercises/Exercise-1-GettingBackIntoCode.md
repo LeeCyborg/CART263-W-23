@@ -26,6 +26,6 @@ Create a Pong game where 2 players bounce a ball back and forth horizontally to 
 ### Requirements, Grading & Submission
 
 All code must be submitted via Github repository as well as on Moodle. You will be graded on:
-* 75% Code is well commented and uploaded to Github. Code comments should explain clearly what each part of the code does, functions and variables should be clearly named
+* 75% Code is well commented and uploaded to Github and Moodle. Code comments should explain clearly what each part of the code does, functions and variables should be clearly named. You should have a clear readme.md file that explains how far you got and how it works. 
 * 25% functionality of code. **The goal of the project is less about creating fully functional code, and more about exercising your brain after the break**! 
 
