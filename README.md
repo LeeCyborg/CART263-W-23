@@ -3,25 +3,27 @@
 ### CART 263: Creative Computation 2 – Winter 2023 – 3 credits 
 
 ## When? 
-January –  April, 2023   
-Section A: Thursdays, 13:30 – 17:30   
-Section B: Tuesdays, 13:30 – 17:30   
-## Where? 
-Tuesdays - EV 5.815   
-Thursdays - EV 5.635   
-## Who? 
+January 9 –  April 23, 2023   
+Section A: Tuesday, 13:30 – 17:30 in EV 5.635
 
+Section B: Thursday, 13:30 – 17:30 in EV 5.815
+
+## Where? 
+Tuesdays - EV 5.635
+Thursdays - EV 5.815   
+
+## Who? 
 Lee Wilkins   
 Department of Design and Computation Arts   
 l.wilkins@concordia.ca  
-www.Leecyb.org
+www.leecyb.org
 
-TA: tktk
-
+TA: Tricia Enns  
+tricia.enns@gmail.com  
+www.triciaenns.com/  
  
 ## Office hours
 Tuesdays, 11:00-12:00   
-TAs (see Moodle for contact details)    
 
 ## Territorial acknowledgment
 We acknowledge that Concordia University is located on unceded Indigenous lands. The Kanien’kehá:ka Nation is recognized as the custodians of the lands and waters on which we gather today. Tiohtiá:ke/Montreal is historically known as a gathering place for many First Nations. Today, it is home to a diverse population of Indigenous and other peoples. We respect the continued connections with the past, present and future in our ongoing relationships with Indigenous and other peoples within the Montreal community. 
@@ -99,19 +101,20 @@ All software students are expected to use in the class will be free.
 The practical work done in this class will take place on your own computer, with course software installed on it by you. The instructor is significantly more experienced with macOS, but will work to support Windows and even Linux as needed. This course does not require a significantly powerful machine beyond the ability to run a web browser. 
 
 ## Course Schedule 
-Week 1: Getting back into code: Setting up Git and VSCode  
+
+Week 1: Getting back into code: Setting up Git and VSCode.   
 Week 2: **Getting back into code due**
-Week 3: Intro to Object Oriented Programming
-Week 4: Live code session & OOP continued
-Week 5: **Particles with Personaliteis due**
-Week 6: Data visualization techniques    
-Week 7: Using APIs in P5js
-Week 8: **Data vis project due**
-Week 9: Debugging & Using mobile devices  
-Week 10: Digital fabrication with p5js
-Week 11: IoT
-Week 12: Studio Session.   
-Week 13: **Playful Interaction due**
+Week 3: Intro to Object Oriented Programming. 
+Week 4: Live code session & OOP continued. 
+Week 5: **Particles with Personalities due**. 
+Week 6: Data visualization techniques.      
+Week 7: Using APIs in P5js. 
+Week 8: **Data vis project due**. 
+Week 9: Debugging & Using mobile.   devices. 
+Week 10: Digital fabrication with p5js. 
+Week 11: IoT.  
+Week 12: Studio Session.     
+Week 13: **Playful Interaction due**.  
 
 ## Design and Computation Arts Syllabus      
 (Click through for the standardized information from D/CART that is included as part of all course outlines.)

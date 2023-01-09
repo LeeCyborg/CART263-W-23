@@ -1,5 +1,5 @@
-# Exercise 1 - Getting Back Into Code
-##10%, individual work 
+# Exercise 1 - Getting Back Into Code 
+##10%. individual work. Due week 2. 
 
 ### Overview 
 This project is an opportunity to quickly get back into practice in coding after the holidays. You can pick between one of the following classic programming problems to solve using P5js, or come up with another idea. 
@@ -18,7 +18,7 @@ Create a TicTacToe game that is able to keep score and determine if there is a w
 Create a Pong game where 2 players bounce a ball back and forth horizontally to score points. Your game should have: 
 * 2 paddles that move vertically using Up & Down arrows, and W & S. 
 * A ball should bounce between the two paddles 
-* A point is scored when the ball passes the opponant's paddle without being hit. 
+* A point is scored when the ball passes the opponents's paddle without being hit. 
 * The ball should hit the walls of the screen and bounce on an angle. 
 * The first player to 10 points wins
 
@@ -27,5 +27,5 @@ Create a Pong game where 2 players bounce a ball back and forth horizontally to 
 
 All code must be submitted via Github repository as well as on Moodle. You will be graded on:
 * 75% Code is well commented and uploaded to Github. Code comments should explain clearly what each part of the code does, functions and variables should be clearly named
-* 25% functionality of code. THe goal of the project is less about creating fully funcitonal code, and more about exercising your brain after the break! 
+* 25% functionality of code. **The goal of the project is less about creating fully functional code, and more about exercising your brain after the break**! 
 
