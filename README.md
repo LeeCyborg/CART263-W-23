@@ -5,11 +5,11 @@
 ## When? 
 January 9 –  April 23, 2023   
 Section A: Tuesday, 13:30 – 17:30 in EV 5.635.  
-Section B: Thursday, 13:30 – 17:30 in EV 5.815
+Section B: Thursday, 13:30 – 17:30 in EV 5.815.  
 
 ## Where? 
-Tuesdays - EV 5.635. 
-Thursdays - EV 5.815.    
+Tuesdays - EV 5.635.  
+Thursdays - EV 5.815.     
 
 ## Who? 
 Lee Wilkins   
@@ -60,16 +60,16 @@ Students are further expected to be fully committed to engaging with programming
 Moodle will be used to receive and submit assignments and grades. 
 
 ## GitHub 
-Code examples and project outlines are available on Moodle as well as github. Studnets are expected to upload their work to Github
+Code examples and project outlines are available on Moodle as well as github. students are expected to upload their work to Github
 
 ## Evaluation 
 **Getting Back Into Code** (10%)  
-The purpsoe of this short project is to get students back into code after the break. This project should be a small piece of code, experimetn, or iteration from a project last semester.  
+The purpose of this short project is to get students back into code after the break. This project should be a small piece of code, experiment, or iteration from a project last semester.  
 
 **Project 1: Particles With Personalities** (20%)    
-In this project every student will recieve a a specification to create a unique particle system using object oriented programming.
+In this project every student will receive a a specification to create a unique particle system using object oriented programming.
 
-**Project 2: Data Visualizationn** (20%) In this project students will create a data visualization of any data set. 
+**Project 2: Data Visualization** (20%) In this project students will create a data visualization of any data set. 
 
 **Project 3: Playful Interaction** (40%)   
 This project is a playful interaction, that can be either a game, experience, or other interactive work. 
