@@ -6,17 +6,18 @@ Each student will create a particle system using Object Oriented Programming (OO
 * Color and shape
 * Speed, movements, or easing 
 * Number of particles and how they interact with each other 
-* Interactions or behaviours of the system with the user or environment
+* Interactions or behaviors of the system with the user or environment
 * Other creative elements like sounds, changes over time, or other ways of expression. 
 
-Be creative, look up particle systems and see whats possible. 
+Be creative, look up particle systems and see whats possible, but don't feel limited by what most particle systems look like. How can you re-imagine this code framework to make many small parts that work together (or against each other)?
 
 ### Grading And Submissions
 * Code is commented clearly and concisely, it is uploaded to Moodle and Github 
-* Your repository has screen shots and a readme.md file clearly explaining your project
+* Your repository has screen shots, mockups, and a readme.md file clearly explaining your project
 * Code uses OOP concepts correctly and effectively, and runs properly without crashing, lagging, or other mishaps
 * Program is creative and clearly embodies the personalities assigned
 * Overall complexity and implementation 
+* Progress from initial design concept to end result
 
 
 ### Resources 
