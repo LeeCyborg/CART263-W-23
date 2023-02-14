@@ -50,7 +50,7 @@ class Particle {
 
   display() {
     noStroke();
-    //drawingContext.filter = 'blur('+String(random(20))+'px)';
+    drawingContext.filter = 'blur('+String(random(20))+'px)';
     fill(this.x, this.y, this.diameter);
     ellipse(this.x, this.y, this.diameter);
   }
