@@ -1,3 +1,3 @@
-# Template p5 project
+# This is an example of a Data Visualizaiton proejct 
 
-This is the README file for the entire project. For more official projects you should write information here about the nature of the project, your name, any special explanations of how the project works, etc.
+There is a data set of EVA space walk data, make sure to include it. By default, it doesn't run any visualizations Run .drawBasic(); or .drawCircle(); to see some effects. 
