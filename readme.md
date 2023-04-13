@@ -3,6 +3,8 @@
 ### CART 263: Creative Computation 2 – Winter 2023 – 3 credits 
 # Welcome to cart 263! 
 
+https://meet.google.com/ven-dwiw-ehc 
+
 ## When? 
 January 9 –  April 23, 2023   
 Section A: Tuesday, 13:30 – 17:30 in EV 5.635.  
